@@ -1,0 +1,17 @@
+{
+  "title": "Diagnosis: Life",
+  "description": "ARKNIGHTS fancomic, featuring Mostima and Platinum",
+  "artist": "Octodeco",
+  "author": "Octodeco",
+  "cover": "https://imgur.com/a/AYXLPqD",
+  "chapters": {
+    "01": {
+      "title": "Meeting",
+      "volume": "01",
+      "groups": {
+        "OTDC": "/proxy/api/imgur/chapter/wDvtQrf/"
+      },
+      "last_updated": "1616368746"
+    },
+  }
+}
