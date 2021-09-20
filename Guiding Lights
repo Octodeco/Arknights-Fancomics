@@ -1,13 +1,13 @@
 {
-  "title": "<Guiding Lights>",
-  "description": "<Arknights Fancomic featuring Asbestos and Eyja.>",
-  "artist": "<Octodeco>",
-  "author": "<Octodeco>",
-  "cover": "<https://imgur.com/a/CS4j9km>",
+  "title": "Guiding Lights",
+  "description": "Arknights Fancomic featuring Asbestos and Eyja.",
+  "artist": "Octodeco",
+  "author": "Octodeco",
+  "cover": "https://i.imgur.com/u3G7508.jpg",
   "chapters": {
     "<01>": {
-      "title": "<New Meeting>",
-      "volume": "<02>",
+      "title": "New Meeting",
+      "volume": "02",
       "groups": {
         "<OTDC>": "/proxy/api/imgur/chapter/YveZXbn/"
       },
