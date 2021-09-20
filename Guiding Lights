@@ -3,15 +3,15 @@
   "description": "Arknights Fancomic featuring Asbestos and Eyja.",
   "artist": "Octodeco",
   "author": "Octodeco",
-  "cover": "u3G7508.jpg",
+  "cover": "https://i.pximg.net/c/782x410_80_a2_g5/illust-series-cover-original/img/2021/07/12/16/01/14/hKrwvBkHe8ws886jXmcLkJXMmP7mhGMf.jpg",
   "chapters": {
-    "01": {
-      "title": "New Meeting",
-      "volume": "02",
+    "7": {
+      "title": "Volcano III",
+      "volume": "2",
       "groups": {
-        "OTDC": "/proxy/api/imgur/chapter/YveZXbn/"
+        "OTDC": "/proxy/api/imgur/chapter/ramgcFK/"
       },
-      "last_updated": "20210919"
+      "last_updated": "1632110992"
     },
   }
 }
